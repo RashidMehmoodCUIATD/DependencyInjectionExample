@@ -1,0 +1,3 @@
+ interface LoggerServiceInjector {
+         Consumer getConsumer();
+}
